@@ -6,5 +6,4 @@ This model that aims to help inform a given country of their current public opin
 Bridging the NLP with empirical approach (correlation between CO2 and GDP emissions) to retrieve insightful recommendations about green investment decisions and policy implications.
 
 Here you can find the link to the Google Colab page for this project: https://drive.google.com/file/d/1h4Npp71UMiRQ4TbsGBGageAgC2vUFA_r/view?usp=sharing
-
 *Note: Be sure to open it using Google Colab for the interactive visualization.
